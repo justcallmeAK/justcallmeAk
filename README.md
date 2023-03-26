@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Hi there 👋, I'm Akash kumar A passionate frontend developer from India,Odisha<br>🔭 I’m currently working on Women safety android app<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android,React,Backend,Database<br>💬 Ask me about Html,Css,Javascript<br>⚡ Fun fact I Am Funny<br>📫 How to reach me akashsahoo864@gmail.com
+Hi there 👋, I'm Akash kumar A passionate frontend developer from India,Odisha<br>🔭 I’m currently working on Women safety android app<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android,React,Backend,Database<br>💬 Ask me about Html,Css,Javascript,Java,Python<br>⚡ Fun fact I Am Funny<br>📫 How to reach me akashsahoo864@gmail.com
 
 
 ## 🌐 Socials:
